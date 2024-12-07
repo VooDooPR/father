@@ -20,5 +20,9 @@
 
 1. Открыть WSL.
 2. make windows
+![image](https://github.com/user-attachments/assets/71d63ad2-632f-41ba-b2b2-950ac2359029)
 3. make linux
+![image](https://github.com/user-attachments/assets/fc2a140b-8e50-42ff-aef2-770e5a57ee84)
 4. make web
+![image](https://github.com/user-attachments/assets/99d3155c-5958-4bf0-b63e-e6a019bedf5c)
+ 
