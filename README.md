@@ -1,4 +1,4 @@
-# Father - Порт классической BASIC-игры в WebAssembly
+# Father - Порт классической BASIC-игры
 
 Этот проект представляет собой порт классической игры *Father* из коллекции *More BASIC Computer Games* на языке C.
 
